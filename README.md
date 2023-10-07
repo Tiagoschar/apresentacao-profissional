@@ -23,7 +23,9 @@ Um projeto criado por Tiago, Renan e Pedro. Nosso objetivo é criar um e-commerc
 - **Programação em HTML** 
 - **Programação em CSS** 
 - **Programação em JavaScript** 
-- **Programação em Lua** 
+- **Programação em Lua**
+- **Criação de projetos no Figma** 
+- **Experiência no Photoshop** 
 
 ## Contato
 
